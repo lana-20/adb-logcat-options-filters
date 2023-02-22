@@ -13,4 +13,4 @@ Overall, examining log files carefully and looking for timestamps, log levels, e
 	
 <img width="1712" alt="Screenshot 2023-02-17 at 7 08 04 PM" src="https://user-images.githubusercontent.com/70295997/219828634-3cceca8d-1924-4418-b02d-33b7446d4cbd.png">
 <img width="1712" alt="Screenshot 2023-02-17 at 9 42 50 PM" src="https://user-images.githubusercontent.com/70295997/219843408-3fbfe4ae-431b-4952-a576-15c2bd9de3ee.png">
-<img width="1712" alt="Screenshot 2023-02-19 at 7 41 17 PM" src="https://user-images.githubusercontent.com/70295997/220004525-79345eb1-abf4-4def-8bd7-736e1b53f6c1.png">
+<img width="1712" alt="Screenshot 2023-02-21 at 5 07 51 PM" src="https://user-images.githubusercontent.com/70295997/220494612-c8c8089a-c9bd-4fb7-9239-079e613588f6.png">
